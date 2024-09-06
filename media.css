@@ -1,0 +1,52 @@
+@media screen and (max-width:780px){
+
+    .hero-section>:nth-child(1){
+        font-size:18px ;
+        font-weight:400 ;
+    }
+
+    .hero-section>:nth-child(2){
+        font-size:32px ;
+        font-weight:700 ;
+    }
+
+    .hero-section>:nth-child(3){
+        font-size:18px ;
+        font-weight:400 ;
+    }
+
+    .btn-bg{
+        font-size:24px ;
+        font-weight:500 ;
+        line-height:24px ;
+    }
+
+
+    .first-section{
+        flex-wrap:wrap ;
+    }
+
+    .part1{
+        justify-content:center ;
+        align-items:center ;
+    }
+
+    .part1 .title{
+        font-size:32px ;
+        font-weight:500 ;
+    }
+
+    .part1 .desc{
+        font-size:18px ;
+        font-weight:300 ;
+    }
+
+    .side-part img{
+        width:550px ;
+    }
+
+    .side-part video{
+        width:460px ;
+    }
+}
+
